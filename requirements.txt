@@ -1,0 +1,8 @@
+pandas
+gspread
+google-auth
+sqlalchemy
+psycopg2
+fastapi
+uvicorn
+python-dotenv
